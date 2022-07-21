@@ -1,0 +1,63 @@
+-- Anotações - Projeto --
+
+
+* Paradigma - Modelo, exemplo a ser seguido
+* Programação - Desenvolvimento de uma aplicação
+* Orientada - Aquilo que é regido, segue uma orientação
+* Objeto - Um molde que representa uma determinada classe
+
+
+Paradigma de Programação Orientado a Objetos - é um modelo de desenvolvimento de aplicações, 
+sendo este modelo construído acerca do conceito de objetos.
+
+---------------------------------------------------------------------------------------------
+
+Linguagem vs Paradigma 
+
+Linguagem de programação - é uma linguagem formal que, através de uma série de instruções,
+permite que um programador escreva um conjunto de ordens, ações consecutivas, dados e 
+algoritmos para criar programas. Podem ser classificadas:
+
+* Níveis de abstração
+* Paradigma de programação
+* Arquitetura de aplicação
+* Tipo de execução
+
+
+Paradigma de Linguagem de Programação - é um conjunto de características que podem ser 
+utilizadas para categorizar determinado grupo de linguagens. Um paradigma pode oferecer 
+técnicas apropriadas para uma aplicação específica. Paradigmas Principais e seus
+Subparadigmas:
+
+
+* Paradigma Imperativo:
+
+- Paradigma Estruturado
+- Paradigma Concorrente 
+- Paradigma OO
+
+
+* Paradigma Declarativo:
+
+- Paradigma Funcional
+- Paradigma Lógico
+
+----------------------------------------------------------------------------------------------
+
+-- Descrição do Projeto --
+
+DESCRIÇÃO
+
+Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito 
+fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: 
+Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, você poderá desenvolver sua 
+capacidade de abstração com um problema real e implementar as evoluções que achar interessantes
+ ;-)
+
+
+
+
+
+
+
+
